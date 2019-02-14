@@ -15,4 +15,5 @@ Below is a breakdown of Lehigh's Undergraduate Enrollment between colleges in 20
 # Lehigh University Undergraduate Enrollment- Residents
 Below is a breakdown of Lehigh's Undergraduate Enrollment based on where students are from in 2017.
 
+
 <iframe title="Chart: 2017 Lehigh University Undergraduate Students" aria-describedby="This bar chart represents the 2017 Lehigh Undergraduate Students based on where they are from. NY/NJ is the most common place that Lehigh students are from." id="datawrapper-chart-bmjGT" src="//datawrapper.dwcdn.net/bmjGT/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="208"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
