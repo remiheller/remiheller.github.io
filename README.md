@@ -33,3 +33,8 @@ Below is a graphic based on tweets from January 19, 2018 through February 9, 201
 Attached below is a Google tour project I created. In it are 3 photos I took with a 360 camera. In addition, there are two scenes that are taken from Google. The purpose of the project is to show potential students what lower campus looks like and talk a little bit about the different buildings we see along the way.
 
 <iframe width="100%" height="480px" src="https://poly.google.com/view/fidylbPhxtr/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
+
+# Timeline Stripping Project
+For this project, I decided to make a timeline based on the dates of the accusations from 2017 to 2018 during the #MeToo movement. All information credit to The Sydney Herald. 
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1d8VCv-PXYicBHK9fIhVSMpi7l1cvV9hqwCWBfSEolGs&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
